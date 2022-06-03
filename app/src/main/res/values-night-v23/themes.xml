@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+
+    <style parent="Theme.AppCompat.Light.NoActionBar" name="Theme.NGPSellerApp">
+
+        <!-- Primary brand color. -->
+
+
+        <item name="colorPrimary">@color/Primary_Dark</item>
+
+        <item name="colorPrimaryDark">@color/Primary_Dark</item>
+
+        <item name="colorAccent">@color/Primary_Dark</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">@color/transparent</item>
+
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Customize your theme here. -->
+
+
+    </style>
+
+</resources>
