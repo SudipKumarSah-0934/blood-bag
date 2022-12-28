@@ -3,7 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sudip/.gradle/caches/transforms-3/0f38f8da608039c0ce9afc3374cb5ece/transformed/android-segmented-1.0.6/res/drawable/button_text_color.xml" value="0.139" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/border.xml" value="0.1735" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/btn_corner_round.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/cancel_btn_shape.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/custom_progress_drawable.xml" value="0.1735" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/edit_text_shape.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/edittext_shape.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/gradient_bg.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/gradient_next_btn.xml" value="0.1805" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/ic_baseline_more_vert_24.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/ic_image_logo_background.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable/bg_spinner.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/drawable/selector_rb_btn.xml" value="0.1" />
         <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/custom_progress_layout.xml" value="0.171875" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/fragment_landing.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/fragment_sign_in.xml" value="0.18" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/layout/fragment_sign_up.xml" value="0.18" />
+        <entry key="..\:/Users/sudip/AndroidStudioProjects/Blood_Bag/app/src/main/res/menu/menu_item.xml" value="0.171875" />
       </map>
     </option>
   </component>
